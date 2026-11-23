@@ -1,6 +1,6 @@
 # Mentora
 
-**Live website:** https://mentora-jateen.netlify.app · [![CI](https://github.com/jateenyadav/mentora/actions/workflows/ci.yml/badge.svg)](https://github.com/jateenyadav/mentora/actions/workflows/ci.yml)
+**Live demo:** coming soon (needs free API keys; run it locally in 2 minutes, see below) · [![CI](https://github.com/jateenyadav/mentora/actions/workflows/ci.yml/badge.svg)](https://github.com/jateenyadav/mentora/actions/workflows/ci.yml)
 
 An AI tutor that remembers how you learn.
 
